@@ -16,6 +16,7 @@ Hospital management requires a data-driven approach to evaluate patient flow, id
 
 The objective of this project is to analyze Emergency Room operations by examining patient flow, admission trends, departmental demand, waiting times, and patient satisfaction. The findings will help hospital management identify inefficiencies, optimize resource allocation, and improve overall service quality and operational efficiency.
 
+---
 
 ## ❓ Key Business Questions
 
